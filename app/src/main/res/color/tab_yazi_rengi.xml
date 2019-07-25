@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:color="#ffffffff" /> // El kaldirildiginda
+    <item android:state_pressed="true" android:color="#a5fffb" />    // El basiliyken
+    <item android:color="#b0ffef" />                                 // Ilk acilis rengi
+</selector>
